@@ -1,4 +1,4 @@
-# Sales-Store-EDA-using-Python-Vijay-Sales-Data-
+# Sales-Store-EDA-using-Python-Vijay-Sales-Data
 
 
 Sales Store EDA using Python (Vijay Sales Data) 
