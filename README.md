@@ -12,7 +12,9 @@ Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 
 Sales Store EDA using Python (Vijay Sales Data)
 📌 Project Overview
+
 This project focuses on performing Exploratory Data Analysis (EDA) on Vijay Sales retail data using Python.
+
 The goal was to clean, transform, merge, and analyze multiple datasets to uncover meaningful business insights related to sales performance, customer behavior, product demand, and city-wise revenue trends.
 
 📂 Datasets Used
